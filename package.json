@@ -1,4 +1,9 @@
 {
   "name": "Tax Token",
-  "packageManager": "yarn@4.2.2"
+  "packageManager": "yarn@4.2.2",
+  "dependencies": {
+    "@solana/spl-token": "^0.4.7",
+    "@solana/web3.js": "^1.95.0",
+    "@types/node": "^20.14.10"
+  }
 }
